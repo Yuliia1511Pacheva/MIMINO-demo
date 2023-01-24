@@ -2,10 +2,10 @@
   "name": "mimino-demo",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yuliia1511Pacheva/MIMINO-demo",
+  "homepage": "https://Yuliia1511Pacheva/mimino-demo",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MIMINO-demo/"
+    "build": "parcel build src/*.html --public-url /mimino-demo/"
   },
   "repository": {
     "type": "git",
